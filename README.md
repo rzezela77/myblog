@@ -4,3 +4,5 @@ A line I wrote on my local computer
 <<<<<<< HEAD
 This is a line from RStudio
 Zezela
+
+testing update from rstudio: test2
