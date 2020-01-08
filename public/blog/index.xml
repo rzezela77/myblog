@@ -74,5 +74,14 @@
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents.</description>
     </item>
     
+    <item>
+      <title>Documentar sua jornada de aprendizagem</title>
+      <link>/blog/document_learning_journeys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/document_learning_journeys/</guid>
+      <description>IntroduçãoDesde cedo percebi que precisava de construir um império para alcançar a minha independência financeira.</description>
+    </item>
+    
   </channel>
 </rss>
